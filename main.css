@@ -219,7 +219,8 @@ header.navbar .navbar-inner {
 header #logo {
 	width:220px;
 	height:80px;
-	background:url(iZooky%20Web%20Page/iZooky%20CSS%20Designed/images/logo.png) no-repeat 0 50%
+	background:url(../images/logo.png) no-repeat 0 50%
+
 
 }
 header.navbar {
